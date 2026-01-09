@@ -1,6 +1,6 @@
 # Asset Pricing Knowledge Basement
 ## 0. Introduction
-I am **JIN Jialin**(金佳林) from **BIT**(Beijing Institude of Technology) in China.
+I am **JIN Jialin**(金佳林) from **BIT**(Beijing Institute of Technology) in China.
 
 THIS repository is bulit with the aim of improving command of asset pricing and quantity investment myself. I would push the code I write according to my understanding and share with people who enjoy the same field as I do.
 
